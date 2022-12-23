@@ -1,0 +1,26 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "dev",
+            "group": "local",
+            "database": "develpoment",
+            "username": "antikey",
+            "password": "bukalapak"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "dev",
+            "group": "local",
+            "database": "development",
+            "username": "antikey",
+            "password": "bukalapak"
+        }
+    ]
+}
